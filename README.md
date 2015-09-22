@@ -4,7 +4,7 @@ Fade a component in for x amount of seconds, then make it disappear, and complet
 
 ##Install
 
-`npm install legit-fader`
+`npm install fader`
 
 ##Example
 
