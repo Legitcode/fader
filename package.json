@@ -1,6 +1,6 @@
 {
   "name": "fader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "fade in and out components",
   "main": "lib/fader.js",
   "scripts": {
