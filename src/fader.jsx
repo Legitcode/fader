@@ -19,7 +19,7 @@ export default class Fader extends React.Component{
     if(nextProps.fade == true) this.fade()
   }
 
-  fade = () => {
+  fade() {
     this.setState({show: true})
     let time = parseFloat(this.props.time) * 1000
     let changeOpacity = time + 1000
